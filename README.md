@@ -4,10 +4,10 @@ A project based learning activity for people who are getting started with Git an
 
 You can play the game at: http://githubschool.github.io/github-games/
 
-Press space to play the game!
-Then do something else
-And then something else
-And then this
+- Press space to play the game!
+- Then do something else
+- And then something else
+- And then this
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
